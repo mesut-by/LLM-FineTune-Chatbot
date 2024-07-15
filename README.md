@@ -1,6 +1,3 @@
-
-### CHATBot README
-
 # CHATBot
 
 CHATBot is a chatbot project using the Mistral 7B model fine-tuned with Wikipedia data.
